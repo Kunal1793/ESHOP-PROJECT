@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\eShopAPI.deps.json
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\eShopAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\eShopAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\eShopAPI.dll
+C:\Users\Administrator\source\repos\eShop\eShopAPI\bin\Debug\netcoreapp2.1\eShopAPI.pdb
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.dll
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.pdb
+C:\Users\Administrator\source\repos\eShop\eShopAPI\obj\Debug\netcoreapp2.1\eShopAPI.csprojAssemblyReference.cache
